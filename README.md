@@ -1,6 +1,5 @@
 # SGAA-TESTE - Sistema de Gestao Academica com Excecoes
 
-Pratica avancada baseada no LAB02 (CoISA/UFCG). Mesma logica do LAB02 mas com tratamento de excecoes.
 
 ## overview
 
